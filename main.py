@@ -20,3 +20,5 @@ while True:
             break
     else:
         print('输入的数据类型有误...')
+
+# 队列
